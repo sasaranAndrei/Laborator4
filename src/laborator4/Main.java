@@ -65,7 +65,7 @@ public class Main {
 		parkUnirii.newVehicle(vehicle2);
 
 
-
+		System.out.println();
 
 
 
